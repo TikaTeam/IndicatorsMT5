@@ -1,9 +1,8 @@
-Donate Me:
-
+###Donate Me
 * https://github.com/TikaTeam/Donate
 
 
-**Indicator Features**
+###Indicator Features
 * Very high scoring
 * low noise signals
 * indicator based on EMA
@@ -14,7 +13,6 @@ Donate Me:
 * Sending accurate signals in forex currency pairs
 
 
-**Recommended settings (For EURUSD and XAUUSD 4H)**
-
+###Recommended settings (For EURUSD and XAUUSD 4H)
 * Period: 100
 * Signal Trend: True
