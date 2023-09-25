@@ -1,9 +1,8 @@
 Donate Me:
-https://github.com/TikaTeam/Donate
+*https://github.com/TikaTeam/Donate
 
 
-**Indicator features**
-
+**Indicator Features**
 * Very high scoring
 * low noise signals
 * indicator based on EMA
@@ -15,7 +14,5 @@ https://github.com/TikaTeam/Donate
 
 
 **Recommended settings (For EURUSD and XAUUSD 4H)**
-
-Period: 100
-
-Signal Trend: True
+*Period: 100
+*Signal Trend: True
