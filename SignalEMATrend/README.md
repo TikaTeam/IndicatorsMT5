@@ -16,3 +16,7 @@
 ### Recommended settings (For EURUSD and XAUUSD 4H)
 * Period: 100
 * Signal Trend: True
+
+
+### Youtube Help
+* https://www.youtube.com/watch?v=zSVal6HSCw8
