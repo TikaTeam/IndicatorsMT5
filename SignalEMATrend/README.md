@@ -1,5 +1,5 @@
 Donate Me:
-*https://github.com/TikaTeam/Donate
+* https://github.com/TikaTeam/Donate
 
 
 **Indicator Features**
@@ -14,5 +14,5 @@ Donate Me:
 
 
 **Recommended settings (For EURUSD and XAUUSD 4H)**
-*Period: 100
-*Signal Trend: True
+* Period: 100
+* Signal Trend: True
